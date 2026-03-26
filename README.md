@@ -15,7 +15,7 @@
 ### リンク
 [担当したソースコードはこちらから](https://github.com/yochi513/RUN-AWAY/tree/main/game%20ver.final/game%20ver.final/Assets/Scrpt/Oikawa%20Person%20in%20charge)
 [本作品のリンクはこちらから](https://github.com/yochi513/RUN-AWAY)
-[本作品のプレイ映像はこちらから](https://youtu.be/ku4a6U8Qn48)
+[本作品のプレイ映像はこちらから](https://youtu.be/m3FCaHSy9is)
 
 
 

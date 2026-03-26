@@ -15,7 +15,7 @@
 ### リンク
 [担当したソースコードはこちらから](https://github.com/yochi513/RUN-AWAY/tree/main/game%20ver.final/game%20ver.final/Assets/Scrpt/Oikawa%20Person%20in%20charge)
 [本作品のリンクはこちらから](https://github.com/yochi513/RUN-AWAY)
-[本作品のプレイ映像はこちらから]()
+[本作品のプレイ映像はこちらから](https://youtu.be/ku4a6U8Qn48)
 
 
 
@@ -40,5 +40,5 @@
 ### リンク
 [ソースコードはこちらから](https://github.com/yochi513/Tystar/tree/main/Tystar1/Tystar/Assets/Scrpt)
 [本作品のリンクはこちらから](https://github.com/yochi513/Tystar)
-[本作品のプレイ映像はこちらから]()
+[本作品のプレイ映像はこちらから](https://youtu.be/Fs1fDMaBbYQ)
 
